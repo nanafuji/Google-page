@@ -53,6 +53,7 @@ li.entete {
 
 .bouton {
   margin: auto;
+  margin-top:10px;
   min-width: 50px;
   width: 500px;
   text-align: center;
