@@ -5,10 +5,6 @@ afficherBox.onclick = function() {
   afficherBox.className="hide";
 }
 
-var 
-
-  windows.open("https//www.google.fr/#q")
-
 
 /*
 function afficherBox() {
